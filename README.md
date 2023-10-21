@@ -1,8 +1,9 @@
-#Web Portofolio
+<b>#Web Portofolio</b>
 
-Pemenuhan tugas Web Develepment Infinite Learning
-Nama    : Beta Nurul Awwalin
+Pemenuhan tugas Web Develepment Infinite Learning<br/>
+Nama    : Beta Nurul Awwalin<br>
 Kelas   : B-Afternoon
-
-Progress Web : Finished
+<br>
+<br>
+Progress Web : Finished<br>
 Link Web Porto : https://akubetaa.github.io/weborofil_Beta/
